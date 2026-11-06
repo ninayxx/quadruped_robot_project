@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "quadruped_robot_project",
+			"path": ".."
+		},
+		{
+			"name": "Quadruped Spider Robot",
+			"path": "../../Documents/PlatformIO/Projects/Quadruped Spider Robot"
+		}
+	],
+	"settings": {}
+}
